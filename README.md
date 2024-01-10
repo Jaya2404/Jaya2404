@@ -7,7 +7,9 @@ I'm Jaya, an enthusiastic and innovative individual with a deep passion for tran
 🌱 My journey has led me to work on diverse projects, from predicting house prices to in-depth data analysis, each fostering my analytical acumen.
 
 📫 Let's connect and explore the world of data together:
+
 📧 Email: jaya.chaturvedi@mail.mcgill.ca | jayachaturvedi600@gmail.com
+
 🔗 [LinkedIn](linkedin.com/in/jayachaturvedi6)
 
 ⚡ Fun fact: As a Potterhead, my heart belongs to 'The Order of the Phoenix'.
