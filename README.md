@@ -4,7 +4,7 @@ I'm Jaya, an enthusiastic and innovative individual with a deep passion for tran
 
 🔭 I'm currently enriching my skills through a Masters in Analytics program at McGill University.
 
-🌱 My journey has led me to work on diverse projects, from predicting house prices to in-depth data analysis, each fostering my analytical acumen.
+🌱 My journey has led me to work on diverse projects each fostering my analytical acumen.
 
 📫 Let's connect and explore the world of data together:
 
