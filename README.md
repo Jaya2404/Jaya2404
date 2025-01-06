@@ -16,5 +16,6 @@ I'm Jaya, an enthusiastic and innovative individual with a deep passion for tran
 
 Dive into my repositories, and let's engage in enriching discussions about Harry Potter or collaborate to turn innovative ideas into reality!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaya2404&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Profile views](https://komarev.com/ghpvc/?username=jaya2404&color=blue)
+
 
