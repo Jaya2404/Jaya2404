@@ -1,21 +1,46 @@
-Hello there! 👋
+# 👋 Hi, I'm Jaya Chaturvedi!
 
-I'm Jaya, an enthusiastic and innovative individual with a deep passion for transforming data into meaningful insights. Holding an Engineering Degree in Computer Science, I bring over six years of rich experience in the Technology Industry. My aspiration? To excel as a Data Analyst/Data Scientist.
+I am a **Data Analyst** at **Data SEA Consulting**, where I help businesses unlock the power of their data by designing efficient ETL pipelines, building insightful dashboards, and developing predictive models. With a solid foundation in analytics and a deep curiosity about technology, I strive to transform raw data into actionable insights that drive impactful decisions.
 
-🔭 I'm currently enriching my skills through a Masters in Analytics program at McGill University.
+---
 
-🌱 My journey has led me to work on diverse projects each fostering my analytical acumen.
+## 🌟 A Bit About Me
+- 🎓 Graduated with a **Master of Management in Analytics** from McGill University (Director’s Award Recipient).  
+- 💼 Currently working in **data analytics and ETL architecture**, focusing on inventory management, sales forecasting, and dashboarding.  
+- 🔍 Industry expertise in **retail, aviation, and real estate**, with a strong focus on building scalable data solutions.  
+- 🌱 Passionate about learning and applying emerging trends in **machine learning**, **cloud platforms**, and **NLP**.
 
-📫 Let's connect and explore the world of data together:
+---
 
-📧 Email: jaya.chaturvedi@mail.mcgill.ca | jayachaturvedi600@gmail.com
+---
 
-🔗 [LinkedIn](linkedin.com/in/jayachaturvedi6)
+## 🛠️ My Technical Expertise
+- **Languages**: Python, SQL, R  
+- **Tools & Platforms**: Power BI, Tableau, Google Looker, Azure ML, Databricks  
+- **Machine Learning**: Scikit-Learn, PyTorch, MLflow  
+- **Cloud & Automation**: Azure Data Factory, Jenkins, Selenium  
 
-⚡ Fun fact: As a Potterhead, my heart belongs to 'The Order of the Phoenix'.
+---
 
-Dive into my repositories, and let's engage in enriching discussions about Harry Potter or collaborate to turn innovative ideas into reality!
+## 🌟 Industry Knowledge
+- **Retail & E-Commerce**: Experience with sales forecasting, inventory management, and customer segmentation.  
+- **Aviation**: Optimized operations through predictive analytics and inventory cost-saving models.  
+- **Real Estate**: Explored pricing trends and applied NLP to property descriptions for valuation analysis.  
 
-![Profile views](https://komarev.com/ghpvc/?username=jaya2404&color=blue)
+---
 
+## ✨ Fun Facts About Me
+- ⚡ I’m a proud **Potterhead**—my favorite book is *The Order of the Phoenix*!  
+- 💃 I use dancing as my creative outlet and have raised funds for education through performances.  
+- ☕ Fueling my data adventures with coffee and brainstorming sessions.  
 
+---
+
+## 🤝 Let’s Connect!
+I’d love to collaborate on exciting data projects or discuss how data-driven strategies can create impactful business outcomes.  
+
+📧 **Email**: jayachaturvedi600@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/jayachaturvedi6](https://linkedin.com/in/jayachaturvedi6)  
+📂 **GitHub**: [github.com/Jaya2404](https://github.com/Jaya2404)  
+
+![Profile views](https://komarev.com/ghpvc/?username=Jaya2404&color=blue)
